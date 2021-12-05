@@ -1,5 +1,4 @@
 # Graph-plot
-Simple Matlab application for graphs presentation, tested under Matlab R2018b Update 8 (9.5.0)
+<img src ="https://raw.githubusercontent.com/syanenko/Graph-plot/main/screenshot.png" width="640">
 
-![Screenshot](screenshot.png)
-
+Simple Matlab application for graphs presentation, tested under Matlab R2018b Update 8 (9.5.0).
