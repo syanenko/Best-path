@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1873311127" file="C:\Users\Serge\Documents\MATLAB\Apps\Best-path\Best path.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Best-path" name="Best path" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3699315759" file="C:\Users\Serge\Documents\MATLAB\Apps\Best-path\Best path.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Best-path" name="Best path" target="target.mlapps" target-name="Package App">
     <param.appname>Best path</param.appname>
     <param.authnamewatermark>Sergey Yanenko</param.authnamewatermark>
     <param.email>syanenko65@gmail.com</param.email>
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Template for best part solution in directed graphs</param.summary>
     <param.description />
-    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tp9d0a68e1_d61f_4fc4_a715_11c5262619e1.png</param.screenshot>
+    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tp80adba9e_d5ee_42cf_b702_a70edd4b26dd.png</param.screenshot>
     <param.version>0.01</param.version>
     <param.products.name />
     <param.products.id />
