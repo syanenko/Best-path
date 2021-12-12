@@ -1,4 +1,4 @@
-### Graph-plot
+### Best-path
 <img src ="https://raw.githubusercontent.com/syanenko/Graph-plot/main/screenshot.png" width="640">
 
 Template for best part solution on directed graphs.  
